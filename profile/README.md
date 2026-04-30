@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://techdelfuego.com/logo.png" alt="Tech del Fuego" width="120"/>
+<img src="https://www.techdelfuego.com/imagenes/logo_color_nofondo.png" alt="Tech del Fuego" width="120"/>
 
 # Tech del Fuego
 
